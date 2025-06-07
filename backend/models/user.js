@@ -1,5 +1,4 @@
 import mongoose from "mongoose";
-import { user } from "pg/lib/defaults";
 
 const USER_ROLES = ["user", "admin", "moderator"];
 
